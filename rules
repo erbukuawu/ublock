@@ -188,6 +188,7 @@ baidu.com###navs
 baidu.com##.callicon-wrap
 baidu.com###hotwordlist
 www.baidu.com###bottom_layer
+www.baidu.com###s_top_wrap
 
 ! 搜索结果清理
 ||baidu.com/se/static/js/modules/invoke/app
