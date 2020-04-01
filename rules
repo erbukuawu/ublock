@@ -1,4 +1,3 @@
-view.inews.qq.com##._3j0kQ-8WsgCmUba-Z5kG0y
 ! 字幕库清理
 zimuku.cn##.modal-content
 zimuku.cn##.modal-dialog
@@ -72,7 +71,7 @@ m.baidu.com##.page-banner
 !Remove AD
 baidu.com##div[class^="ec_r"]
 !Fuck baijiahao
-//baidu.com##.c-result.result[data-log*="baijiahao"]
+/baidu.com##.c-result.result[data-log*="baijiahao"]/
 !Remove short Vedio
 baidu.com##.c-result.result[new_srcid="4660"]
 !Remove mini app
@@ -189,6 +188,11 @@ baidu.com##.callicon-wrap
 baidu.com###hotwordlist
 www.baidu.com###bottom_layer
 www.baidu.com###s_top_wrap
+baidu.com##.related-news > .contentPadding.contentSize
+
+! 好看视频清理
+baidu.com##.rmb-growth-comment-btn
+haokan.baidu.com##.ad-wrapper.mod-ad.item.c-row
 
 ! 搜索结果清理
 ||baidu.com/se/static/js/modules/invoke/app
@@ -207,6 +211,7 @@ baidu.com##.ec-fc-ad-results
 baidu.com##.banner-wrap
 baidu.com##.under-sigma.molecule-adrisk.hint-top-adrisk
 //baidu.com##.se-head-tablink//
+baidu.com##.egg-bubble
 
 ! 百度百科清理
 baidu.com###J-declare
@@ -364,7 +369,7 @@ zhidao.baidu.com##.wgt-asp-youx
 ! miui论坛清理
 miui.com###app
 
-! 法广清理
+! rfi清理
 www.rfi.fr##.m-block-ad
 
 ! 139邮箱清理
@@ -656,3 +661,22 @@ epochtimes.com###djy_donation
 epochtimes.com##.newsletter_container
 epochtimes.com##.socials
 epochtimes.com###v2015_share
+
+！ 数字尾巴清理
+opser.wap.dgtle.com##.clear.openInApp
+opser.wap.dgtle.com##.common_no_review_p
+opser.wap.dgtle.com##.Header-download
+
+! 谷歌首页清理
+www.google.com###footer
+www.google.com##.As6eLe.M6hT6.fbar
+www.google.com###belowsb
+
+! 中国数字时代清理
+chinadigitaltimes.net###footer
+chinadigitaltimes.net###media_image-3
+chinadigitaltimes.net###media_image-2
+chinadigitaltimes.net###custom_html-3
+chinadigitaltimes.net###custom_html-5
+chinadigitaltimes.net###custom_html-7
+chinadigitaltimes.net###et_recent_tweets-2
