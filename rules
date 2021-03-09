@@ -75,7 +75,7 @@ baidu.com##div[class^="ec_r"]
 !Remove short Vedio
 baidu.com##.c-result.result[new_srcid="4660"]
 !Remove mini app
-baijiahao.baidu.com##.commentEmbed-backHomeCard
+baidu.com##.commentEmbed-backHomeCard
 baidu.com##.c-result.result[new_srcid="38414"]
 
 ! 虎嗅网清理
@@ -153,6 +153,7 @@ m.douban.com##.write-review
 m.douban.com##.write-comment
 m.douban.com##.section-header_link
 m.douban.com##section._2PHbl:nth-of-type(3)
+douban.com##.list-link
 
 ! 网易新闻清理
 163.com##.doc-footer-wrapper
@@ -160,10 +161,14 @@ m.douban.com##section._2PHbl:nth-of-type(3)
 163.com##.more_up
 163.com##.uc-fixed-ad-wrap
 3g.163.com##.show.sub-box.sub_box
+renjian.163.com##.footer_m
+renjian.163.com##.header_client
+
 
 ! 腾讯新闻清理
 xw.qq.com###taskTips
 xw.qq.com##.hairline-top
+xw.qq.com###recommend-modules
 
 ! 百度首页清理
 baidu.com##.baiduapp-ad-container
@@ -189,6 +194,7 @@ baidu.com###hotwordlist
 www.baidu.com###bottom_layer
 www.baidu.com###s_top_wrap
 baidu.com##.related-news > .contentPadding.contentSize
+baidu.com###s-hotsearch-wrapper
 
 ! 好看视频清理
 baidu.com##.rmb-growth-comment-btn
@@ -212,6 +218,8 @@ baidu.com##.banner-wrap
 baidu.com##.under-sigma.molecule-adrisk.hint-top-adrisk
 //baidu.com##.se-head-tablink//
 baidu.com##.egg-bubble
+baidu.com##div[id*="med-invoke-box._"]
+baidu.com##div[id*="div.result.c-result:nth-of-type"]
 
 ! 百度百科清理
 baidu.com###J-declare
@@ -242,6 +250,8 @@ bilibili.com##.player-inner-download
 bilibili.com##.load-cover
 bilibili.com*bannerList
 live.bilibili.com##.none-select
+bilibili.com##.m-home-float-openapp
+bilibili.com##.openapp
 bilibili.com##.index__cccTips__M-videoPage-player-
 
 ! 百度贴吧清理
@@ -306,6 +316,8 @@ zhihu.com##.HotQuestions-bottomButton
 zhihu.com##.CommentEditor--normal.Comments-footer
 zhihu.com##.HotQuestions
 zhuanlan.zhihu.com##.Post-Author-Mobile.Post-Author
+zhihu.com##.MobileAppHeader-downloadLink
+zhihu.com##.AdblockBanner
 
 
 ! 新浪体育清理(由coolapk@jfa2008发现此广告
@@ -372,6 +384,7 @@ miui.com###app
 
 ! rfi清理
 www.rfi.fr##.m-block-ad
+www.rfi.fr##div[id*="tms-block-"]
 
 ! 139邮箱清理
 mail.10086.cn###advertisingPicture
@@ -484,7 +497,6 @@ sohu.com##.toHomeBtn
 sohu.com##.select-wrapper
 sohu.com##.noFixed
 sohu.com##.sub-header
-sohu.com###MPCOMMENT
 sohu.com##.fixed
 sohu.com##.fixed_back_home
 sohu.com##.fixed_back_top
@@ -686,3 +698,15 @@ chinadigitaltimes.net###custom_html-3
 chinadigitaltimes.net###custom_html-5
 chinadigitaltimes.net###custom_html-7
 chinadigitaltimes.net###et_recent_tweets-2
+
+! therealreal清理
+www.therealreal.com##.product-card__status
+
+! 全历史清理
+m.allhistory.com##.navbar-container
+
+! 华尔街日报清理
+cn.nytimes.com##div[id*="medium-rectangle-"]
+cn.nytimes.com##.download
+cn.nytimes.com##.copy-footer.row
+cn.nytimes.com###subscribe_mobile_cont
