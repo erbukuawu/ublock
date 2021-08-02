@@ -153,7 +153,8 @@ m.douban.com##.write-review
 m.douban.com##.write-comment
 m.douban.com##.section-header_link
 m.douban.com##section._2PHbl:nth-of-type(3)
-douban.com##.list-link
+m.douban.com##.list-link
+m.douban.com##div.center > div
 
 ! 网易新闻清理
 163.com##.doc-footer-wrapper
@@ -163,6 +164,7 @@ douban.com##.list-link
 3g.163.com##.show.sub-box.sub_box
 renjian.163.com##.footer_m
 renjian.163.com##.header_client
+3g.163.com##.widget-slider-article-content
 
 
 ! 腾讯新闻清理
@@ -171,30 +173,11 @@ xw.qq.com##.hairline-top
 xw.qq.com###recommend-modules
 
 ! 百度首页清理
-baidu.com##.baiduapp-ad-container
-baidu.com###menu-container
-baidu.com###bottom
-baidu.com###banner
 baidu.com##.blank-frame
-baidu.com##.wa-sg-wise-app-download
-||baidu.com/se/static/js/modules/invoke/app
-||baidu.com/static/ecom/js/wise/home/nativeads_
-baidu.com##.callappbox-wrap
-baidu.com##.baiduapp-ad-container
-baidu.com##.logined-banner
-baidu.com##.baiduapp-ad-body
-baidu.com##.index-banner
-baidu.com###userinfo-wrap
-baidu.com###weather
-baidu.com###appBanner
-baidu.com##.habody
-baidu.com###navs
-baidu.com##.callicon-wrap
-baidu.com###hotwordlist
-www.baidu.com###bottom_layer
-www.baidu.com###s_top_wrap
-baidu.com##.related-news > .contentPadding.contentSize
-baidu.com###s-hotsearch-wrapper
+baidu.com###foot
+baidu.com###header > div > div
+baidu.com##.con-inner-left > .callicon-wrap
+baidu.com##.square-enterance
 
 ! 好看视频清理
 baidu.com##.rmb-growth-comment-btn
@@ -252,6 +235,7 @@ bilibili.com*bannerList
 live.bilibili.com##.none-select
 bilibili.com##.m-home-float-openapp
 bilibili.com##.openapp
+bilibili.com##.m-nav-openapp.open-app-btn
 bilibili.com##.index__cccTips__M-videoPage-player-
 
 ! 百度贴吧清理
@@ -646,11 +630,11 @@ acfun.cn##.flex-center.down-app-button
 acfun.cn##.header-ico 
 acfun.cn##.more-main-comment
          
-! N唐人清理
+! 新唐人清理
 ntdtv.com##.social-info
 ntdtv.com##.shareplugin
 
-! dw新闻清理
+! 多维新闻清理
 dwnews.com##.floatbar
 dwnews.com##.sharebox
 dwnews.com##.fx-fixed
