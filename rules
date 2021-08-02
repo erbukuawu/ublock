@@ -239,49 +239,9 @@ bilibili.com##.m-nav-openapp.open-app-btn
 bilibili.com##.index__cccTips__M-videoPage-player-
 
 ! 百度贴吧清理
-||bdstatic.com/tb/mobile/cool_game
-tieba.baidu.com##.bottom-wonderful-recommend
-tieba.baidu.com##.footer
-tieba.baidu.com##.sug_hot_recommend
-tieba.baidu.com##.sug_region_body:nth-of-type(2)
-tieba.baidu.com##.cool_game
-tieba.baidu.com##.can_close
-tieba.baidu.com##.j_click_stats
-tieba.baidu.com##.top_ext_li_recommend
-tieba.baidu.com##.more_btn_package
-tieba.baidu.com##.frs_sign_in_show
-tieba.baidu.com##.xiang-guan-tie
-tieba.baidu.com###bottom-share-button
-tieba.baidu.com###index-app-overlay
-tieba.baidu.com##.forum_recommend_w
-tieba.baidu.com###index-tuijian-wrap
-tieba.baidu.com##.j_tab_selected
-tieba.baidu.com##.j_tab_discovery
-tieba.baidu.com##.j_client_ghost_icon
-tieba.baidu.com##.share_footer_wrapper
-tieba.baidu.com###pb_imgs > a
-tieba.baidu.com##.pb_imgs_right2 > span
-tieba.baidu.com##.dia_mask
-tieba.baidu.com##.dia_wrapper
-tieba.baidu.com##.u9_pb_style
-tieba.baidu.com##.blue_kit_icon_search
-tieba.baidu.com##.blue_kit_left
-tieba.baidu.com##.fixed_bar
-tieba.baidu.com##.iSlider-wrapper-container-hot-thread
-tieba.baidu.com##.hongbao_page_pop_common
-tieba.baidu.com##.pb_cut_hot_recommend
-tieba.baidu.com##.pb-footer.footer.j_footer.j_pb_footer
-tieba.baidu.com###diversBanner
-tieba.baidu.com##.img_desc
-tieba.baidu.com##.top-guide-wrap.top-guide
-tieba.baidu.com##.open-style
-tieba.baidu.com##.footer-wrap
-tieba.baidu.com##.tb-footer-wrap
-tieba.baidu.com##.j_videoFootDownBtn.videoFooter
-tieba.baidu.com###blue-bar
-tieba.baidu.com##.ui_image_header_bottom
-tieba.baidu.com##.tl_shadow_for_app.tl_shadow_new.tl_shadow
-tieba.baidu.com##.interest-bar
+tieba.baidu.com##.nav-bar-wrapper.fixed-nav-bar
+tieba.baidu.com##.tb-mt--8 > .tb-panel
+tieba.baidu.com##.nav-bar.w-row-justify-between.w-row-align-center.w-row
 
 ! 知乎清理
 zhihu.com##.AppMagicBanner
