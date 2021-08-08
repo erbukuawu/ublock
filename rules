@@ -239,9 +239,9 @@ bilibili.com##.m-nav-openapp.open-app-btn
 bilibili.com##.index__cccTips__M-videoPage-player-
 
 ! 百度贴吧清理
-tieba.baidu.com##.nav-bar-wrapper.fixed-nav-bar
-tieba.baidu.com##.tb-mt--8 > .tb-panel
-tieba.baidu.com##.nav-bar.w-row-justify-between.w-row-align-center.w-row
+byokpg.smartapps.cn##.ad-expose
+byokpg.smartapps.cn##.sw-21__bdad-wrap
+byokpg.smartapps.cn##.sw-21__ad-expose
 
 ! 知乎清理
 zhihu.com##.AppMagicBanner
@@ -648,6 +648,9 @@ www.therealreal.com##.product-card__status
 
 ! 全历史清理
 m.allhistory.com##.navbar-container
+
+！ins清理
+www.instagram.com##.Z_Gl2
 
 ! 华尔街日报清理
 cn.nytimes.com##div[id*="medium-rectangle-"]
