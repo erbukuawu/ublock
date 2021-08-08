@@ -239,6 +239,10 @@ bilibili.com##.m-nav-openapp.open-app-btn
 bilibili.com##.index__cccTips__M-videoPage-player-
 
 ! 百度贴吧清理
+tieba.baidu.com##.nav-bar-wrapper.fixed-nav-bar
+tieba.baidu.com##div.tb-hotthread-wrapper
+tieba.baidu.com##div.nav-bar-wrapper
+tieba.baidu.com##.tb-mt--8 > .tb-panel
 byokpg.smartapps.cn##.ad-expose
 byokpg.smartapps.cn##.sw-21__bdad-wrap
 byokpg.smartapps.cn##.sw-21__ad-expose
