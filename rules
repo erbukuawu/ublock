@@ -668,3 +668,14 @@ cn.nytimes.com##div[id*="medium-rectangle-"]
 cn.nytimes.com##.download
 cn.nytimes.com##.copy-footer.row
 cn.nytimes.com###subscribe_mobile_cont
+
+！小红书清理
+www.xiaohongshu.com##.more-image-desc
+www.xiaohongshu.com##.footer
+www.xiaohongshu.com##.open-app-block
+www.xiaohongshu.com##.red-block
+www.xiaohongshu.com##.bottom-bar
+www.xiaohongshu.com##.bottom
+www.xiaohongshu.com##.number-text
+www.xiaohongshu.com##.fixed
+www.xiaohongshu.com##.sub-total-link
