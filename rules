@@ -202,7 +202,7 @@ baidu.com##.under-sigma.molecule-adrisk.hint-top-adrisk
 //baidu.com##.se-head-tablink//
 baidu.com##.egg-bubble
 baidu.com##div[id*="med-invoke-box._"]
-baidu.com###results-pre
+baidu.com##.se-results-pre
 baidu.com##div[id*="div.result.c-result:nth-of-type"]
 
 ! 百度百科清理
