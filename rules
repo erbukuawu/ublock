@@ -173,6 +173,7 @@ xw.qq.com##.hairline-top
 xw.qq.com###recommend-modules
 
 ! 百度首页清理
+baidu.com##.blank-frame
 baidu.com###foot
 baidu.com###header > div > div
 baidu.com##.con-inner-left > .callicon-wrap
