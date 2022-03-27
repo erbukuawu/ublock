@@ -143,18 +143,18 @@ douban.com##.mark-item
 douban.com##.app-link
 douban.com###comment-list > div > .show-all
 douban.com##.movie-reviews.bd > .show-all
-m.douban.com##.sub-trademark
-m.douban.com##.show-all
-m.douban.com##.oia-wrap
-m.douban.com##div.show-more
-m.douban.com##div.interval
-m.douban.com##.open-in-app-fixed-bottom
-m.douban.com##.write-review
-m.douban.com##.write-comment
-m.douban.com##.section-header_link
-m.douban.com##section._2PHbl:nth-of-type(3)
-m.douban.com##.list-link
-m.douban.com##div.center > div
+douban.com##.sub-trademark
+douban.com##.show-all
+douban.com##.oia-wrap
+douban.com##div.show-more
+douban.com##div.interval
+douban.com##.open-in-app-fixed-bottom
+douban.com##.write-review
+douban.com##.write-comment
+douban.com##.section-header_link
+douban.com##section._2PHbl:nth-of-type(3)
+douban.com##.list-link
+douban.com##div.center > div
 
 ! 网易新闻清理
 163.com##.doc-footer-wrapper
