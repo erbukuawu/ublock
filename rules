@@ -570,6 +570,9 @@ m.weibo.cn##.m-container-max.OpenInAppButton
 ! 36氪清理
 36kr.com##.kr-mobile-goapp
 36kr.com##.gotoapp
+36kr.com##.show.article-top-swiper-goapp
+36kr.com##.float-app-button-wrp
+36kr.com##.float-home-button-wrp
          
 ! quora清理
 www.quora.com##.inner
