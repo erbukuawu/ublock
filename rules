@@ -165,6 +165,10 @@ douban.com##div.center > div
 renjian.163.com##.footer_m
 renjian.163.com##.header_client
 3g.163.com##.widget-slider-article-content
+3g.163.com##.bottom.widget-slider-article.widget-slider
+3g.163.com##.js-open-app.to-app
+3g.163.com##.js-newlist-app.to-app
+3g.163.com##.open-app
 
 
 ! 腾讯新闻清理
