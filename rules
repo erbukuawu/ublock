@@ -172,7 +172,10 @@ renjian.163.com##.header_client
 3g.163.com##.js-newlist-app
 3g.163.com##.js-open-app.s-tip
 3g.163.com##.js-open-app.backflow-floating
-
+3g.163.com##.comment-link > .js-open-app
+3g.163.com##.js-open-app.main-openApp
+3g.163.com##.js-open-app.s-openApp
+3g.163.com##.floatMenu
 
 ! 腾讯新闻清理
 xw.qq.com###taskTips
