@@ -215,6 +215,7 @@ baidu.com##.egg-bubble
 baidu.com##div[id*="med-invoke-box._"]
 baidu.com##.se-results-pre
 baidu.com##div[id*="div.result.c-result:nth-of-type"]
+baidu.com###s_wrap
 
 ! 百度百科清理
 baidu.com###J-declare
