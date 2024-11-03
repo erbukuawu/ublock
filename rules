@@ -155,6 +155,7 @@ douban.com##.section-header_link
 douban.com##section._2PHbl:nth-of-type(3)
 douban.com##.list-link
 douban.com##div.center > div
+douban.com##.talion-nav-footer
 
 ! 网易新闻清理
 163.com##.doc-footer-wrapper
