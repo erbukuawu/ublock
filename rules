@@ -618,16 +618,6 @@ acfun.cn##.flex-center.down-app-button
 acfun.cn##.header-ico 
 acfun.cn##.more-main-comment
          
-! 新唐人清理
-ntdtv.com##.social-info
-ntdtv.com##.shareplugin
-
-! 多维新闻清理
-dwnews.com##.floatbar
-dwnews.com##.sharebox
-dwnews.com##.fx-fixed
-dwnews.com##.footer-bg
-dwnews.com##.app-fixed
 
 ! 星光云清理
 ettoday.net###smartbanner
@@ -637,15 +627,6 @@ ettoday.net##.clearfix.part_operate_1
 ettoday.net##.clearfix.sharebox_1
 ettoday.net##.xfb.fb_like_fans
 ettoday.net##.part_social
-
-! 大几元清理
-epochtimes.com##.social-pageview
-epochtimes.com##.djy_facebook
-epochtimes.com##.social-pageview.below_article_share
-epochtimes.com###djy_donation
-epochtimes.com##.newsletter_container
-epochtimes.com##.socials
-epochtimes.com###v2015_share
 
 ！ 数字尾巴清理
 opser.wap.dgtle.com##.clear.openInApp
